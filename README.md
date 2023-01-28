@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GiuseppeLanucara
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Front and Back End Languages 
+- 👋 Hi, I’m @GiuseppeLanucara a Jr. Full Stack Web Developer
+- 👀 I’m interested in coding and i prefer front-end
+- 🌱 I’ve leanerd HTML5, CSS3, SASS, BOOTSTRAP, JAVASCRIPT, VUEJS, VITE, NODEJS, PHP, PHPMyADMIN, MySQL, LARAVEL, GIT
 
 <!---
 GiuseppeLanucara/GiuseppeLanucara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
