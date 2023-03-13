@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer whit the passion of coding and a creative mind that i express in my projects.
+I’m a full-stack developer whit the passion of coding and a creative mind that i express on my projects.
 I'm Italian and i'm 26 years old, after serving my country for 6 years in the Italian Navy i wanted to rebuild my career and starting to learning coding. I've completed a full time bootcamp and learned the basics of front and back end technologies. After i started to learning more on my own and this gave me more confident in myself.  
   
 
@@ -81,7 +81,6 @@ I'm Italian and i'm 26 years old, after serving my country for 6 years in the It
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
