@@ -22,13 +22,13 @@ I'm Italian and i'm 26 years old, after serving my country for 6 years in the It
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Angular  
+- 🔭 I’m currently working on Angular/React  
   
 
-- 🌱 I’m currently learning TypeScript and Angular   
+- 🌱 I’m currently learning React   
   
 
-- ⚡I’ve leanerd HTML5, CSS3, SASS, BOOTSTRAP, JAVASCRIPT, VUEJS, VITE, NODEJS, PHP, PHPMyADMIN, MySQL, LARAVEL, GIT  
+- ⚡I’ve leanerd HTML5, CSS3, SASS, BOOTSTRAP, JAVASCRIPT, VUEJS, VITE, ANGULAR, TYPESCRIPT, NODEJS, PHP, PHPMyADMIN, MySQL, LARAVEL, GIT  
 
 
 </td><td valign="top" width="50%">
