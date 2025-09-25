@@ -12,8 +12,11 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer whit the passion of coding and a creative mind that i express on my projects.
-I'm Italian and i'm 27 years old, after serving my country for 6 years in the Italian Navy i wanted to rebuild my career and starting to learning coding. I've completed a full time bootcamp and learned the basics of front and back end technologies. After i started to working whit a company and start to work as a Front Ende Developer in different projects whit React and Angular- I keep learning more on my own and this gave me more confident in myself.  
+I’m a Front-End Developer with a passion for coding and a creative mindset that I bring into every project.
+I’m Italian and 28 years old. After serving my country for six years in the Italian Navy, I decided to rebuild my career and start learning programming. I completed a full-time bootcamp where I learned the fundamentals of front-end and back-end technologies.
+
+Over the past three years, I’ve been working as a Front-End Developer, gaining experience with Angular, React, and JSP. I’ve worked on consulting projects providing support and maintenance, and I’ve also built front-end applications from scratch that went into production in the healthcare sector.
+I’m constantly learning and expanding my skill set, which has strengthened my confidence and passion for what I do. 
   
 
 <br/>  
